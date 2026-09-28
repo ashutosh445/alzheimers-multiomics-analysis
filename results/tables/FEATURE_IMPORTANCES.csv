@@ -1,0 +1,80 @@
+Feature,Importance,Category
+METAB_beta-alanine,0.05044712749911101,Metabolite
+Triglycerides,0.03636332586363064,Clinical
+METAB_kynurenine,0.034173701664354114,Metabolite
+METAB_3-carboxy-4-methyl-5-pentyl-2-furanpropionate (3-CMPFP)**,0.029513229172428723,Metabolite
+METAB_1-stearoyl-2-arachidonoyl-GPE (18:0/20:4),0.029127765303920562,Metabolite
+GUT_Gemmiger_formicilis,0.027228908249759813,Gut Microbiome
+METAB_N-linoleoylglycine,0.02664945007145931,Metabolite
+METAB_glutamate,0.025261039090810785,Metabolite
+METAB_cis-4-decenoate (10:1n6)*,0.024727343960647966,Metabolite
+GUT_Paraprevotella_clara,0.02277682227542223,Gut Microbiome
+METAB_inosine,0.019958242541503707,Metabolite
+METAB_N-acetyl-isoputreanine,0.019495786264541185,Metabolite
+Platelet,0.018204154375218516,Clinical
+METAB_orotate,0.017991886729960774,Metabolite
+METAB_1-stearoyl-2-oleoyl-GPE (18:0/18:1),0.017516745110053075,Metabolite
+METAB_1-carboxyethyltyrosine,0.016983714177170924,Metabolite
+METAB_1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*,0.016796779965205882,Metabolite
+METAB_carotene diol (3),0.016474010381546448,Metabolite
+METAB_lactate,0.016351226581320936,Metabolite
+METAB_2-methylbutyrylcarnitine (C5),0.015744296254521842,Metabolite
+"METAB_N,N,N-trimethyl-5-aminovalerate",0.015193259573314855,Metabolite
+METAB_palmitoleoyl-linoleoyl-glycerol (16:1/18:2) 1*,0.015089487420906733,Metabolite
+METAB_propionylcarnitine (C3),0.014653665956519743,Metabolite
+METAB_oleoyl-linoleoyl-glycerol (18:1/18:2) 1,0.014581253214211198,Metabolite
+METAB_linoleoyl-linoleoyl-glycerol (18:2/18:2) 1*,0.01407109360288476,Metabolite
+METAB_1-stearoyl-2-oleoyl-GPC (18:0/18:1),0.014023557282256606,Metabolite
+"METAB_2,6-dihydroxybenzoic acid",0.013747656219308487,Metabolite
+METAB_4-ethylphenylsulfate,0.013555868136328173,Metabolite
+METAB_1-stearoyl-2-linoleoyl-GPE (18:0/18:2)*,0.013440623077230505,Metabolite
+METAB_11beta-hydroxyandrosterone glucuronide,0.0127294237561346,Metabolite
+SALIVA_Bifidobacterium_longum,0.012111475502707391,Saliva Microbiome
+METAB_oleoyl-linoleoyl-glycerol (18:1/18:2) 2,0.011922041577097564,Metabolite
+GUT_Phocaeicola_dorei,0.011915936948897123,Gut Microbiome
+METAB_1-stearoyl-2-docosahexaenoyl-GPE (18:0/22:6)*,0.011872136260911681,Metabolite
+METAB_1-palmitoyl-GPG (16:0)*,0.011751713225919138,Metabolite
+METAB_palmitoyl-linoleoyl-glycerol (16:0/18:2) 2*,0.011731373536662613,Metabolite
+METAB_prolylglycine,0.01171824896585341,Metabolite
+METAB_1-palmitoyl-2-arachidonoyl-GPI (16:0/20:4)*,0.011608053779888095,Metabolite
+SALIVA_Alloprevotella_tannerae,0.011460013225377381,Saliva Microbiome
+METAB_N-palmitoyl-sphinganine (d18:0/16:0),0.011234866493081697,Metabolite
+METAB_1-cerotoyl-GPC (26:0)*,0.011192216323152603,Metabolite
+METAB_1-palmitoyl-2-arachidonoyl-GPE (16:0/20:4)*,0.01056341280268307,Metabolite
+METAB_1-palmitoleoylglycerol (16:1)*,0.009842067663492833,Metabolite
+METAB_1-carboxyethylleucine,0.009767011733704895,Metabolite
+METAB_1-carboxyethylvaline,0.009496156940471519,Metabolite
+METAB_N-octanoylglycine,0.009094295089579839,Metabolite
+METAB_2-methoxyhydroquinone sulfate (1),0.008932890326860407,Metabolite
+METAB_1-palmitoyl-2-linoleoyl-GPE (16:0/18:2),0.008807810073956373,Metabolite
+GUT_GGB3256_SGB4303,0.008711708541798183,Gut Microbiome
+METAB_1-linoleoyl-GPG (18:2)*,0.008500963147789376,Metabolite
+METAB_1-stearoyl-GPG (18:0),0.008477797650564722,Metabolite
+METAB_threonate,0.008416696287872782,Metabolite
+METAB_3-decenoylcarnitine,0.008230281969755473,Metabolite
+METAB_1-myristoylglycerol (14:0),0.008058661113520247,Metabolite
+METAB_oleoyl-arachidonoyl-glycerol (18:1/20:4) 2*,0.007864149193764476,Metabolite
+METAB_caffeic acid sulfate,0.007795292005898696,Metabolite
+"METAB_bilirubin degradation product, C17H18N2O4 (2)**",0.007557968867469157,Metabolite
+METAB_4-oxo-retinoic acid,0.007380770781869281,Metabolite
+METAB_N-acetylglutamate,0.007294078528210906,Metabolite
+METAB_palmitoyl-linoleoyl-glycerol (16:0/18:2) 1*,0.007019376081499365,Metabolite
+METAB_homovanillate (HVA),0.0069930972063543305,Metabolite
+"METAB_2,4-di-tert-butylphenol",0.006709305629068871,Metabolite
+GUT_GGB9615_SGB15053,0.006645395212390738,Gut Microbiome
+METAB_cystathionine,0.006641986505641747,Metabolite
+METAB_biliverdin,0.006254339193593346,Metabolite
+METAB_1-carboxyethylisoleucine,0.005715177268114046,Metabolite
+METAB_2-methoxyhydroquinone sulfate (2),0.005374112506568859,Metabolite
+METAB_1-palmitoyl-2-oleoyl-GPE (16:0/18:1),0.005038905301131571,Metabolite
+"METAB_bilirubin degradation product, C17H18N2O4 (3)**",0.005009584251894635,Metabolite
+GUT_Prevotella_hominis,0.0047317828425323385,Gut Microbiome
+METAB_S-methylmethionine,0.00459492782635737,Metabolite
+METAB_xanthurenate,0.004456351582908634,Metabolite
+METAB_1-palmitoyl-2-oleoyl-GPI (16:0/18:1)*,0.0043519632154983105,Metabolite
+METAB_4-methylguaiacol sulfate,0.0036295612488054275,Metabolite
+METAB_retinal,0.0035924312344255377,Metabolite
+METAB_2-ethylphenylsulfate,0.002959771761506403,Metabolite
+GUT_Bacteroides_fragilis,0.0024710889076205804,Gut Microbiome
+METAB_myristoyl-linoleoyl-glycerol (14:0/18:2) 1*,0.0014124448098615816,Metabolite
+GUT_Mitsuokella_jalaludinii,0.00021686508373126737,Gut Microbiome
